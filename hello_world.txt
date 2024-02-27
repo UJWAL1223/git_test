@@ -1,0 +1,3 @@
+Hello just finished learning the basic of git
+SO now i am going to commit This and readme files 
+god luck to me
